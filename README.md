@@ -1,6 +1,14 @@
 # ukpolicedata
 
-Create a UI for this API: https://data.police.uk/   
+Create a UI for this API - It's England, Wales and Northern Ireland only - not scotland: https://data.police.uk/   
+
+For Scotland I'd need to pull from another source.  
+
+Maybe these: 
+- https://www.nrscotland.gov.uk/statistics-and-data
+- https://www.gov.scot/statistics-and-research/?cat=filter&topics=Law%20and%20order&page=1
+
+Would likely involve consolidating a lot of spreadsheets and making an API
 
 # Ideas
 - Are there any other sources of data I can use to link up with it?
